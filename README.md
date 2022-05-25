@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Deployment
 
-This app deployed on firebase [Go to app](https://videogame-library.web.app/)
+This app deployed on firebase [Go to app](https://installment-test.firebaseapp.com/)
 
 ## Installment-public standard features
 
