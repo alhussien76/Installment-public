@@ -1,6 +1,5 @@
 # Installment-public
-![image](https://user-images.githubusercontent.com/43760047/170382851-4bbe3ad4-5889-4311-9752-62e163cc12dc.png)
-
+![image](https://user-images.githubusercontent.com/43760047/170839046-a7b17e88-7997-4ff1-96e0-67b3685f8ea9.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
@@ -16,7 +15,7 @@ Pass : 12345678
 ## Installment-public standard features
 
 Its a simplle installment app for users who sell thier products with yearly installment.
- ![image](https://user-images.githubusercontent.com/43760047/170382672-5ff498b3-6882-42ca-a1a3-6760bb63da34.png)
+![image](https://user-images.githubusercontent.com/43760047/170839020-ed0f4582-3902-450b-851d-2aeec7883437.png)
 
 - user can register in the app
 - user can rest the password
@@ -39,6 +38,7 @@ Its a simplle installment app for users who sell thier products with yearly inst
  
 - user can filter customers with (warning or danger alert)
  ![image](https://user-images.githubusercontent.com/43760047/170382616-3aab903c-49c7-4fae-93e7-d8de7bfebd46.png)
+- responsive design for mobile and tablet
  
  ## Registration 
  contact via mail: hussienabdallah14@gmail.com
